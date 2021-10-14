@@ -1,0 +1,4 @@
+repository "2021 VR-Classroom@ssl://nohesitate@sh01-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/625446709" 
+     
